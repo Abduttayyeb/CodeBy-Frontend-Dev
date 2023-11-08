@@ -3,7 +3,7 @@
 Welcome to the frontend of the CodeBy Realtime CodeEditor project. This frontend provides a user-friendly interface for creating and managing code editing rooms with real-time collaboration features and alerts.
 
 ## Accessing the WebApp
-[![screenshot](./docs/screenshot.png)](https://codeby-prod-frontend.onrender.com/)
+[![screenshot](https://raw.githubusercontent.com/Abduttayyeb/CodeBy-Backend/main/docs/screenshot.png)](https://codeby-prod-frontend.onrender.com/)
 
 You can access the deployed version of the CodeBy Realtime CodeEditor frontend on Render at
 
